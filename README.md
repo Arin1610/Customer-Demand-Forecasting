@@ -1,6 +1,6 @@
 # Customer Demand & Revenue Forecasting Dashboard
 
-End-to-end data analytics project built as part of my portfolio for the Allianz Data Analytics Graduate Programme.
+End-to-end data analytics project built as part of my portfolio.
 
 ## Project Overview
 Analysis of £17.37M in retail transactions across 5,878 customers and 36,900+ orders using Python and Power BI.
